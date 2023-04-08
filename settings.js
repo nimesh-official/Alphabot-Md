@@ -46,17 +46,17 @@ global.language = indonesia //change indonesia to english if you don't understan
 
 // Other
 // Other
-global.botname = "『⏤͟͟͞͞ᴍʀ.ʙɪɢ ᴍᴏᴜꜱᴇ_˚』٭🦠" //namabot kalian
-global.ownername = "『⏤͟͟͞͞ᴍʀ.ʙɪɢ ᴍᴏᴜꜱᴇ_˚』٭🦠" //nama kalian
-global.myweb = "https://chat.whatsapp.com/KJSWCZ8QA9o7f7KQibRUd6" //bebas asal jan hapus
-global.youtube = "https://chat.whatsapp.com/KJSWCZ8QA9o7f7KQibRUd6" //bebas asal jan hapus
-global.myweb2 = "https://chat.whatsapp.com/KJSWCZ8QA9o7f7KQibRUd6" //bebas
-global.email = "https://chat.whatsapp.com/KJSWCZ8QA9o7f7KQibRUd6" //bebas
+global.botname = "RABBIT BOT" //namabot kalian
+global.ownername = "RABBIT BOT" //nama kalian
+global.myweb = "https://chat.whatsapp.com" //bebas asal jan hapus
+global.youtube = "https://chat.whatsapp.com" //bebas asal jan hapus
+global.myweb2 = "https://chat.whatsapp.com" //bebas
+global.email = "https://chat.whatsapp.com" //bebas
 global.region = "srilanka" //bebas
 global.timezone = 'Asia/colombo' //  timezone wib
-global.premium = ['94770611075'] //premium user
-global.owner = ["94770611075", "94770611075"] //ganti agar fitur owner bisa di gunakan
-global.ownernomer = "94770611075" // nomor wa kalian
+global.premium = ['94786802371'] //premium user
+global.owner = ["94786802371", "94786802371"] //ganti agar fitur owner bisa di gunakan
+global.ownernomer = "94786802371" // nomor wa kalian
 global.ownernomerr = "+"+ownernomer //nmr wa kalian
 global.thumbnail = "./image/lol.jpg" // ini lol.jpg adalah nama foto di folder image. untuk foto bot
 global.donasi = "./image/donasi.jpg" // foto donasi di folder image
