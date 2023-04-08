@@ -48,10 +48,10 @@ global.language = indonesia //change indonesia to english if you don't understan
 // Other
 global.botname = "RABBIT BOT" //namabot kalian
 global.ownername = "RABBIT BOT" //nama kalian
-global.myweb = "https://chat.whatsapp.com" //bebas asal jan hapus
-global.youtube = "https://chat.whatsapp.com" //bebas asal jan hapus
-global.myweb2 = "https://chat.whatsapp.com" //bebas
-global.email = "https://chat.whatsapp.com" //bebas
+global.myweb = "https://chat.whatsapp.com/JiJAxumcqnM9EmwYIKDypY" //bebas asal jan hapus
+global.youtube = "https://chat.whatsapp.com/JiJAxumcqnM9EmwYIKDypY" //bebas asal jan hapus
+global.myweb2 = "https://chat.whatsapp.com/JiJAxumcqnM9EmwYIKDypY" //bebas
+global.email = "https://chat.whatsapp.com/JiJAxumcqnM9EmwYIKDypY" //bebas
 global.region = "srilanka" //bebas
 global.timezone = 'Asia/colombo' //  timezone wib
 global.premium = ['94786802371'] //premium user
